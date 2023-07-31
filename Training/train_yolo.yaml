@@ -1,5 +1,5 @@
-train: /content/drive/MyDrive/Object_detection/train/images  # 
-val: /content/drive/MyDrive/Object_detection/valid/images  # 
+train: ./train/images  # 
+val: ./valid/images  # 
 
 # number of classes
 nc: 24
